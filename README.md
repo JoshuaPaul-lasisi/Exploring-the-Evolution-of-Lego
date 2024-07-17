@@ -29,10 +29,3 @@ Your task is to explore and manipulate the existing data to answer the two quest
 By answering these two questions, you will provide the Account Executive with valuable insights into the evolution of Lego's licensed sets, particularly the importance of the Star Wars partnership and the emergence of other popular licensed themes over time. This information can be used to inform strategic decisions and negotiations with the Star Wars team.
 
 Remember, the method you use to arrive at the answers is up to you, but keep in mind that the dataset may require some cleaning and handling of missing values to ensure the reliability of your results.
-
-Citations:
-[1] https://newsinitiative.withgoogle.com/resources/trainings/google-trends/basics-of-google-trends/
-[2] https://innovationorigins.com/en/new-data-global-interest-for-ai-in-business-reaches-peak-popularity/
-[3] https://techeconomy.ng/global-interest-for-ai-in-business-reaches-peak-popularity-despite-recent-chatgpt-traffic-decline/
-[4] https://stackoverflow.com/questions/50958150/what-data-type-to-store-interest-rates-and-sums-of-compound-interest-calculation
-[5] https://trends.google.com/trends/yis/2023/GLOBAL/
